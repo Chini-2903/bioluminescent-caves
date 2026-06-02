@@ -2,7 +2,7 @@
 
 [![Engine](https://img.shields.io/badge/Made%20with-Unity-black?style=flat-square&logo=unity)](https://unity.com/)
 [![Focus](https://img.shields.io/badge/Focus-Level%20Design-purple?style=flat-square)](#)
-[![Playable Build](https://img.shields.io/badge/Explore_Map-itch.io-FA5C5C?style=flat-square&logo=itchdotio)](YOUR_ITCH_LINK)
+[![Playable Build](https://img.shields.io/badge/Explore_Map-itch.io-FA5C5C?style=flat-square&logo=itchdotio)](https://cryptixthala.itch.io/bioluminescent-caves-assignment/)
 
 A multi-tiered 3D multiplayer arena focusing entirely on spatial pacing, player flow, and tactical engagement metrics. This project serves as a practical execution of competitive level design theory.
 
